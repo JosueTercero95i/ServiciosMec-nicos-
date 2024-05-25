@@ -1,0 +1,14 @@
+C:\Users\ROBOTICA\source\repos\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\ROBOTICA\source\repos\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\ROBOTICA\source\repos\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\ROBOTICA\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\ROBOTICA\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\ROBOTICA\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\ROBOTICA\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\PC\Desktop\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\PC\Desktop\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\PC\Desktop\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\PC\Desktop\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\PC\Desktop\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
